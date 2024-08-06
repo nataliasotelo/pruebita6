@@ -1,0 +1,25 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align:center;
+}
+
+p {
+    color: #555;
+}
+
+#primero{
+    background: #e6d0f3;
+    border: 1px solid #7818e6;
+    padding: .1em;
+}
+
+.aquemededico {
+        background-color: rgb(153, 241, 222);
+}
+
+.especial{
+    background-color: rgb(220, 201, 236);
+}
